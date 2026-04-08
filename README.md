@@ -12,7 +12,6 @@ This repository is organized as a monorepo with npm workspaces:
 ![Express](https://img.shields.io/badge/Express-4-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
-![License](https://img.shields.io/badge/License-Private-informational)
 
 ## 🎥 Project Demo
 
